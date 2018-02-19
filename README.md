@@ -95,4 +95,4 @@ Content in the first column | Content in the second column
   
   
 ![for.png](assets/for.png)
-![for.png](assets\for.png)
+![for.png](./assets/for.png)
