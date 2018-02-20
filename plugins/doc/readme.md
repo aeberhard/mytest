@@ -10,4 +10,4 @@ readme
   
   ![FriendsOfREDAXO](assets/for.png)
   
-  </p>
+  </div>
