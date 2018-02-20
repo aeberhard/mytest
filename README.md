@@ -100,3 +100,10 @@ Content in the first column | Content in the second column
 
 &#33;&#91;FriendsOfREDAXO&#93;&#40;assets/for.png&#41;
 
+<p style="text-align:center;">
+
+![FriendsOfREDAXO](assets/for.png)
+
+</p>
+
+xx
