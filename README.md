@@ -95,4 +95,8 @@ Content in the first column | Content in the second column
   
   
 ![for.png](assets/for.png)
+
 ![for.png](./assets/for.png)
+
+&#33;&#91;FriendsOfREDAXO&#93;&#40;assets/for.png&#41;
+
