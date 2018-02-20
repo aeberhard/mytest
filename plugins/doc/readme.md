@@ -6,4 +6,8 @@ readme
 
 </div>
 
-<p style="text-align:center">![FriendsOfREDAXO](assets/for.png)</p>
+<div style="background:red;width:100%;text-align:center;">
+  
+  ![FriendsOfREDAXO](assets/for.png)
+  
+  </p>
