@@ -11,3 +11,8 @@ readme
   ![FriendsOfREDAXO](assets/for.png)
   
   </div>
+
+
+- Hilfe / FAQ
+    - [Wo finde ich Hilfe?](help_where.md) <sup><b>(in Arbeit)</b></sup>
+    - [FAQ-Liste](help_faq.md) <sup><b>(offen)</b></sup>
