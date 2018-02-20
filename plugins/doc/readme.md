@@ -6,10 +6,4 @@ readme
 
 </div>
 
-<p style="text-align:center;">
-  
-  xx
-  
-![demo_addon @FriendsOfREDAXO](assets/logo.svg)
-
-</p>
+<p style="text-align:center">![FriendsOfREDAXO](assets/for.png)</p>
