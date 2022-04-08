@@ -1,6 +1,4 @@
-<p>
-<div style="background-color:#f8d7da; width:100%; border-style: solid; border-color:#f5c6cb; border-width:1pt; padding:5pt; font-size:10pt; line-height:12pt; font-family:Calibri; color:#721c24; text-align: left;">
+<p style="background-color:#f8d7da; width:90%; border-style: solid; border-color:#f5c6cb; border-width:1pt; padding:7pt; font-size:10pt; line-height:12pt; font-family:Calibri; color:#721c24; text-align: left;">
     <span style="color:#721c24"; font-weight:bold;>ACHTUNG:</span>
     Diese E-Mail stammt von einem externen Absender. Bitte vermeiden Sie es, Anhänge oder externe Links zu öffnen!
-</div>
 </p>
